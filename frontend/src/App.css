@@ -1,0 +1,8 @@
+/* Customizing scrollbar for luxury look */
+body::-webkit-scrollbar {
+  width: 8px;
+}
+body::-webkit-scrollbar-thumb {
+  background-color: #ffd700; /* gold thumb */
+  border-radius: 10px;
+}
